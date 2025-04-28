@@ -1,0 +1,20 @@
+.navbar-logo {
+  
+  height: 75px;
+  margin-right: 10px;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.nav-link.btn {
+  padding: 0;
+  border: none;
+  background: none;
+  text-align: left;
+}
+
+.nav-link.btn:hover {
+  background-color: transparent;
+}
